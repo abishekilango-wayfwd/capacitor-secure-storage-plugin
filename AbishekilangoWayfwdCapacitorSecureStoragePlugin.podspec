@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'AbishekilangoWayfwdCapacitorSecureStoragePlugin'
-  s.version = '0.6.4'
+  s.version = '0.6.5'
   s.summary = 'securely store secrets such as usernames, passwords, tokens, certificates or other sensitive information (strings) on iOS & Android'
   s.license = 'MIT'
   s.homepage = 'https://github.com/abishekilango-wayfwd/capacitor-secure-storage-plugin.git'
