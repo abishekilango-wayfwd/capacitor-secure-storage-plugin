@@ -6,14 +6,14 @@ Capacitor plugin for storing string values securly on iOS and Android.
 For Capacitor v3
 
 ```
-npm install capacitor-secure-storage-plugin
+npm install @abishekilango-wayfwd/capacitor-secure-storage-plugin
 ```
 
 
 For Capacitor v2 - install with fixed version 0.5.1
 
 ```
-npm install capacitor-secure-storage-plugin@0.5.1
+npm install @abishekilango-wayfwd/capacitor-secure-storage-plugin@0.5.1
 ```
 
 
@@ -24,7 +24,7 @@ For Capacitor v3
 In a component where you want to use this plugin add to or modify imports:
 
 ```
-import { SecureStoragePlugin } from 'capacitor-secure-storage-plugin';
+import { SecureStoragePlugin } from '@abishekilango-wayfwd/capacitor-secure-storage-plugin';
 ```
 
 For Capacitor v2
@@ -32,7 +32,7 @@ For Capacitor v2
 In a component where you want to use this plugin add to or modify imports:
 
 ```
-import 'capacitor-secure-storage-plugin';
+import '@abishekilango-wayfwd/capacitor-secure-storage-plugin';
 import { Plugins } from '@capacitor/core';
 
 const { SecureStoragePlugin } = Plugins;
